@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Room from './components/Room'
+import Room from './components/room/Room'
 
 function App() {
   const [count, setCount] = useState(0)
